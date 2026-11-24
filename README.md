@@ -1,1 +1,1 @@
-# practica-git
+PROVA PER LA PRÀCTICA DE GIT
